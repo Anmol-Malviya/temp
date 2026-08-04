@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Experiment Lifecycle
+
+Plan the test, create an isolated branch, run the experiment, record the outcome, and clean up temporary resources when finished.
