@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Learning Goals
+
+Build confidence with version control, understand collaborative GitHub workflows, and practice making small, reviewable changes.
