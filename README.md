@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Commit Messages
+
+Prefer short, action-oriented messages such as `docs: clarify setup` or `test: verify workflow`.
