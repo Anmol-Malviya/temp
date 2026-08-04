@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Collaboration
+
+Communicate the purpose of each experiment, avoid overlapping changes, and use pull request discussions to record decisions.
