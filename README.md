@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Safety Guidelines
+
+Never commit passwords, API keys, private certificates, personal data, or production configuration to this repository.
