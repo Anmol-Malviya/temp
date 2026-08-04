@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Support
+
+For repository questions, open a GitHub issue with a clear description and the steps needed to reproduce the concern.
