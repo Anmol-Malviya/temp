@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Supported Workflows
+
+This sandbox supports experiments with commits, feature branches, pull requests, merge strategies, and GitHub automation.
