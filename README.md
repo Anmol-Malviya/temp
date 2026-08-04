@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Version Control Tips
+
+Commit related changes together, sync before starting new work, and review branch history before opening a pull request.
