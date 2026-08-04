@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Roadmap
+
+Future improvements may include reusable test fixtures, workflow examples, issue templates, and automated Markdown checks.
