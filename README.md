@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Repository Overview
+
+Use this repository as a controlled space to explore Git features, test integrations, and rehearse workflows without affecting production code.
