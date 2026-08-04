@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Contributing
+
+Create a focused branch, make one clear change, validate the result, and open a pull request with a concise explanation.
