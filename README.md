@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Cleanup Guidance
+
+Delete obsolete branches and temporary artifacts after an experiment is complete to keep the repository easy to understand.
