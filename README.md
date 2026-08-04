@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Issue Reporting
+
+When reporting a problem, include the expected result, actual result, reproduction steps, and any relevant environment details.
