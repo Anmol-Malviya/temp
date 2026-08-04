@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## FAQ
+
+**Is this production-ready?** No. This repository is intentionally maintained as a temporary learning and testing environment.
