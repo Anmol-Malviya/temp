@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Repository Structure
+
+The root README documents the sandbox, while future experiment files should be grouped into clearly named folders.
