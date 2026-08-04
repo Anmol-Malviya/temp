@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Pull Request Checklist
+
+Keep each pull request focused, explain why the change is useful, include validation notes, and review the final diff before merging.
