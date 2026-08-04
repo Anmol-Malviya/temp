@@ -23,3 +23,7 @@ This repository is intended for temporary experiments and testing. Its contents 
 ## Author
 
 Created and maintained by [Anmol Malviya](https://github.com/Anmol-Malviya).
+
+## Testing Checklist
+
+Before sharing a change, confirm that Markdown renders correctly, links work, commands are accurate, and the diff contains only intended edits.
